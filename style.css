@@ -14,7 +14,7 @@ h1 {
   align-items: center;
   justify-content: center;
   font-size: 1.8em;
-  background-image: url("capture.png");
+  background-image: url("./capture.png");
   min-height: 50px;
 }
 
